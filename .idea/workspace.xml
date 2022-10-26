@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crowds001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crowds/Crowds111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageSearchEngine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GghuC2CnBt7Ah3BDhKGNdzI6FU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "12",
+    "last_opened_file_path": "C:/Users/Niamh/OneDrive/Documents/Final Project/imageSearchEngine/crowds"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Niamh\OneDrive\Documents\Final Project\imageSearchEngine\crowds" />
+      <recent name="C:\Users\Niamh\OneDrive\Documents\Final Project\imageSearchEngine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niamh\OneDrive\Documents\Final Project\imageSearchEngine" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="" />
+      <created>1666816359292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666816359292</updated>
+      <workItem from="1666816366641" duration="3132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
