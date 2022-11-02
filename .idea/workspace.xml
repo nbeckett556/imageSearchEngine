@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="opening and displaying an image" />
+    <list default="true" id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="opening and displaying an image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "12",
-    "last_opened_file_path": "C:/Users/Niamh/OneDrive/Documents/Final Project/CSC3002-project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;12&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Niamh/OneDrive/Documents/Final Project/CSC3002-project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Niamh\OneDrive\Documents\Final Project\imageSearchEngine\crowds" />
@@ -47,7 +49,8 @@
       <updated>1666816359292</updated>
       <workItem from="1666816366641" duration="3132000" />
       <workItem from="1666820226935" duration="523000" />
-      <workItem from="1666821382039" duration="664000" />
+      <workItem from="1666821382039" duration="1092000" />
+      <workItem from="1667081405757" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="opening and displaying an image">
       <created>1666820298336</created>
