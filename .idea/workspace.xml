@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="opening and displaying an image">
+    <list default="true" id="f9df18f8-2621-4a86-854d-764e19666b05" name="Changes" comment="implemented basic colour comparison functionality">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EuclideanDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/createRgbHist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateRgbHist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortAscending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortAscending.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -21,15 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;12&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Niamh/OneDrive/Documents/Final Project/CSC3002-project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "12",
+    "last_opened_file_path": "C:/Users/Niamh/OneDrive/Documents/Final Project/CSC3002-project"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Niamh\OneDrive\Documents\Final Project\imageSearchEngine\crowds" />
@@ -50,7 +69,9 @@
       <workItem from="1666816366641" duration="3132000" />
       <workItem from="1666820226935" duration="523000" />
       <workItem from="1666821382039" duration="1092000" />
-      <workItem from="1667081405757" duration="621000" />
+      <workItem from="1667081405757" duration="14175000" />
+      <workItem from="1667515275751" duration="4467000" />
+      <workItem from="1667857702568" duration="14665000" />
     </task>
     <task id="LOCAL-00001" summary="opening and displaying an image">
       <created>1666820298336</created>
@@ -66,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666821884952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated workspace.xml">
+      <created>1667405294012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667405294012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented basic colour comparison functionality">
+      <created>1667867795159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667867795159</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="opening and displaying an image" />
-    <option name="LAST_COMMIT_MESSAGE" value="opening and displaying an image" />
+    <MESSAGE value="updated workspace.xml" />
+    <MESSAGE value="implemented basic colour comparison functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented basic colour comparison functionality" />
   </component>
 </project>

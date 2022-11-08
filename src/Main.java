@@ -1,18 +1,17 @@
-import javax.swing.*;
-import java.awt.*;
-
 public class Main {
-    public static void main(String[] args) {
-        JFrame frame = new JFrame();
-        frame.setSize(500, 500);
+    public static void main(String[] args) throws Exception {
 
-        Container c = frame.getContentPane();
+        ShowImage.showImageFrame("crowds/Crowds001.jpg");
 
-        JLabel label = new JLabel();
-        label.setIcon(new ImageIcon("crowds/Crowds001.jpg"));
+        String colorEDFilePath = EuclideanDistance.writeColorEDToFile("crowds/",
+                "crowds/Crowds001.jpg");
 
-        c.add(label);
-        frame.setVisible(true);
+        String[] returnedSearchImages = EuclideanDistance.getSimilarImages(colorEDFilePath, 5);
+
+        for (String image: returnedSearchImages) {
+            System.out.println(image);
+            ShowImage.showImageFrame(image);
+        }
 
     }
 }
