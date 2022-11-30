@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) throws Exception {
 
-        ShowImage.showImageFrame("crowds/Crowds001.jpg");
+        ShowImage.showImageFrame("F1-CarsQuery/F1-Cars034.jpg");
 
-        String colorEDFilePath = EuclideanDistance.writeColorEDToFile("crowds/",
-                "crowds/Crowds001.jpg");
+        String colorEDFilePath = EuclideanDistance.writeColorEDToFile("imageDatabase/",
+                "F1-CarsQuery/F1-Cars034.jpg");
 
         String[] returnedSearchImages = EuclideanDistance.getSimilarImages(colorEDFilePath, 5);
 

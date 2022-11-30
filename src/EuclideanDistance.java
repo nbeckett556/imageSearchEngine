@@ -12,7 +12,7 @@ public class EuclideanDistance {
         File dir = new File(imagesFilePath);
 
         int[] quryHist = CreateRgbHist.createRgbHistVector(queryImageFilePath);
-        
+
         for (File file : dir.listFiles()) {
                 int[] hist = CreateRgbHist.createRgbHistVector(file.getPath());
                 double distance = calculateEuclideanDist(quryHist, hist);
